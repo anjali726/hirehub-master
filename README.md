@@ -2,8 +2,11 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 # HireHUB
-
-> Write a project description
+```sh
+Built a placement management system application
+> Tools & technologies used: MERN,HTML,CSS
+> Built a placement management system application that streamlines the job posting and application process,while also allowing for student registration and notification functionality.
+```
 
 ## Prerequisites
 
@@ -17,25 +20,6 @@ $ npm -v && node -v
 16.13.0
 v8.1.0
 ```
-
-## Table of contents
-
-- [Project Name](#project-name)
-  - [Prerequisites](#prerequisites)
-  - [Table of contents](#table-of-contents)
-  - [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Usage](#usage)
-    - [Serving the app](#serving-the-app)
-    - [Running the tests](#running-the-tests)
-    - [Building a distribution version](#building-a-distribution-version)
-    - [Serving the distribution version](#serving-the-distribution-version)
-  - [Contributing](#contributing)
-  - [Credits](#credits)
-  - [Built With](#built-with)
-  - [Versioning](#versioning)
-  - [Authors](#authors)
-  - [License](#license)
 
 ## Getting Started
 
@@ -98,24 +82,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 5.  Push to the branch: `git push origin my-new-feature`
 6.  Submit a pull request :sunglasses:
 
-## Credits
-
-TODO: Write credits
 
 ## Built With
 
 - VSCode
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/i-see-pixels/hirehub-backend/tags).
-
-## Authors
-
-- **Siddhant**  [Siddhant](https://github.com/i-see-pixels)
-- **Himanshu** [Himanshu](https://github.com/shunmahi2000)
-- **Hitesh**  [Hitesh](https://github.com/spyder7370)
-
-See also the list of [contributors](https://github.com/i-see-pixels/hirehub-backend/contributors) who participated in this project.
-
-## License
